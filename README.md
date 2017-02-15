@@ -1,2 +1,2 @@
-# curly-giggle
+# R Fun
 Testing repository for training
